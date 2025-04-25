@@ -9,7 +9,7 @@
 <body>
   <header>
     <div class="logo">
-      <img src="logo.png" alt="Logo Perusahaan" width="120">
+      <img src="./images/logo.png" alt="Logo Perusahaan" width="120">
       <span style="font-size: 24px; font-weight: bold; margin-left: 10px;">Toko Herbal Johta dan jesen</span> <!-- Teks di samping logo -->
     </div>
     <nav>
