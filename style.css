@@ -101,3 +101,25 @@ footer {
 .product button:hover {
   background-color: #222; /* Hijau lebih gelap saat hover */
 }
+
+
+img.Monyet{
+  border: 5px solid white;
+  margin-top: 50px;
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+body.beranda{
+  background-color: black;
+}
+
+p.beranda{
+  color: white;
+  text-align: center;
+  font-size: 500%;
+}
+
